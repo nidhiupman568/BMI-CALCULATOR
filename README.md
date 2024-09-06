@@ -4,6 +4,8 @@ Absolutely, here’s the enhanced description with more emojis:
 
 🎉 Welcome to the **BMI Calculator** project! 🎉 This sleek and user-friendly tool helps you quickly determine your Body Mass Index (BMI) based on your height and weight. It's designed to be intuitive and visually appealing. 🌟
 
+Project Demo: https://nidhiupman568.github.io/BMI-CALCULATOR/
+
 ## 📋 Description
 
 The **BMI Calculator** is a straightforward web application designed to calculate your BMI and provide corresponding health categories. Simply enter your height (in cm) and weight (in kg) to get instant results. Stay on top of your health with this handy tool! 💪
